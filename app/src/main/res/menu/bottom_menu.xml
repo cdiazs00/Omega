@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/calculatorFragment"
+        android:icon="@drawable/calculator"
+        android:title="Calculadora"
+        tools:ignore="HardcodedText" />
+
+    <item
+        android:id="@+id/registerFragment"
+        android:icon="@drawable/register"
+        android:title="Registros"
+        tools:ignore="HardcodedText" />
+
+    <item
+        android:id="@+id/historyFragment"
+        android:icon="@drawable/history"
+        android:title="Historial"
+        tools:ignore="HardcodedText" />
+</menu>
